@@ -1,0 +1,1 @@
+start javaw.exe -jar "LostFilmNews.jar"
